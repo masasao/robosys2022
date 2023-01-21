@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # SPDX-FileCopyrightText: 2023 Masanao Hayashi
 # SPDX-License-Identifier: BSD-3-Claus
-import syss
+import sys
 
 def tonum(s):
     try:
