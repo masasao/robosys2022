@@ -4,14 +4,13 @@
 ・このリポジトリにはplusコマンドがあります。
 ## plusコマンド
 ![test](http://github.com/masanao/robosys2022/actions/workflows/test.yml/badge.svg)
+
 ・標準入力から読み込んだ数字の合計値を出すプログラムです。
 
 $ seq 数 | ./plus
 
 を行うと、 
-
 数+(数-1)+(数-2)・・・・・+2+1
-
 の計算ができます。
 
 ### 例
