@@ -23,9 +23,8 @@
 
 
 ## インストール方法
-~~~$ git clone https://github.com/masasao/robosys2022.git~~~
-
-~~~$ cd robosys2022~~~
+~~~$ git clone https://github.com/masasao/robosys2022.git
+$ cd robosys2022~~~
 
 を行ってください。
 
