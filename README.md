@@ -3,7 +3,7 @@
 。                            
 ・このリポジトリにはplusコマンドがあります。
 ## plusコマンド
-![test](https://github.com/masanao/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](://github.com/masasao/robosys2022/actions/runs/4120557552)
 
 ・標準入力から読み込んだ数字の合計値を出すプログラムです。
 
