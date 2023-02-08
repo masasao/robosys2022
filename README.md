@@ -14,25 +14,24 @@
 の計算ができます。
 (数に0より小さい数字を入力すると計算結果は0になります。)
 ### 例
-
-~~~$ seq 5 | ./plus~~~
+$ seq 5 | ./plus
 
 
 ↑(5+4+3+2+1=15)
 
 
 ## インストール方法
-```$ git clone https://github.com/masasao/robosys2022.git
+$ git clone https://github.com/masasao/robosys2022.git
 
-$ cd robosys2022```
+$ cd robosys2022
 
 を行ってください。
 
 ## 必要なソフトウェア
- テスト済み   Python: 3.7〜3.10
+・ テスト済み   Python: 3.7〜3.10
 
 ## 動作確認済み環境
-* Ubuntu18.04.5 Windows 
+・Ubuntu18.04.5 Windows 
 ## ライセンス関係
 ・このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されています。
 
