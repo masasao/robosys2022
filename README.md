@@ -15,16 +15,17 @@
 (数に0より小さい数字を入力すると計算結果は0になります。)
 ### 例
 
-$ seq 5 | ./plus                                 
-15
+```$ seq 5 | ./plus                                
+15```
 
 
 ↑(5+4+3+2+1=15)
 
 
 ## インストール方法
-$ git clone https://github.com/masasao/robosys2022.git
-$ cd robosys2022
+```$ git clone https://github.com/masasao/robosys2022.git
+
+$ cd robosys2022```
 
 を行ってください。
 
