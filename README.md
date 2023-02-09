@@ -1,8 +1,4 @@
-# robosys2022
-・ロボットシステム学の2022年度授業の練習リポジトリです。
-                            
-
-## plusコマンド
+# plusコマンド
 ![test](https://github.com/masasao/robosys2022/actions/workflows/test.yml/badge.svg)
 
 
@@ -28,18 +24,11 @@
 
 を行ってください。
 
-## 必要なソフトウェア
-・ テスト済み   Python: 3.7〜3.10
-
 ## 動作確認済み環境
+・Python: 3.7〜3.10 テスト済み  
 ・Ubuntu18.04 Windows 
-## ライセンス関係
+## ライセンス
 ・このソフトウェアパッケージは、3条項BSDライセンスの下、再頒布および使用が許可されています。
-
-
-・このパッケージのコードは，下記のスライド（CC-BY-SA 4.0 by Ryuichi Ueda）のものを，本人の許可を得て自身の著作としたものです。
-
-・[ryuichiueda/my_slides robosys_2022](https://github.com/ryuichiueda/my_slides/tree/master/robosys_2022)
 
 
  * © 2023 masasao 
